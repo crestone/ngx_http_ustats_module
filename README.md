@@ -1,4 +1,4 @@
-nginx-ustats-module
+ngx_http_ustats_module
 ============
 
 #### module provides basic statistics for each backend in nginx upstreams:
